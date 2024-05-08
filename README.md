@@ -2,7 +2,7 @@
 
 noreplay is a library used to detect if a number was used within a certain window.
 This is useful for detecting and preventing packet replay attacks, and is used in
-protocols like DTLS and SRTP. Anti replay safeguards are also mentioned in RFC's such as (RFC4303)[https://www.rfc-editor.org/rfc/rfc4303#section-3.4.3].
+protocols like DTLS and SRTP. Anti replay safeguards are also mentioned in RFC's such as [RFC4303](https://www.rfc-editor.org/rfc/rfc4303#section-3.4.3).
 
 ## Purpose
 
